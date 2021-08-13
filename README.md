@@ -10,4 +10,4 @@ Discord server [here](https://discord.gg/invite/w3QgFZVaw9)
 Languages I know: C# and Python
 
 ### Metrics
-![Metrics](https://github.com/manualmap/my-github-user/blob/main/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/ManualMap/ManualMap/main/github-metrics.svg)
