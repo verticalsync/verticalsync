@@ -3,7 +3,7 @@
 
 You can contact me on discord and telegram  
 
-main
+main  
 [![purpl3r0se#1234](https://discord.c99.nl/widget/theme-1/975326428868534272.png)](https://discord.c99.nl/)  
 
 termed account 2
