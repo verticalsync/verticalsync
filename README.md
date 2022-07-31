@@ -13,3 +13,7 @@ termed account 1
 [![termed acc 1](https://discord.c99.nl/widget/theme-1/935524992647573514.png)](https://discord.c99.nl/)  
 
 Telegram: https://t.me/purpl3r0se (I'm more likely to respond if you dm my discord account than my telegram.)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purpl3r0se&&theme=dark&background=000000">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=purpl3r0se&theme=dark&background=000000)](https://git.io/streak-stats)
