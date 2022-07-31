@@ -14,6 +14,6 @@ termed account 1
 
 Telegram: https://t.me/purpl3r0se (I'm more likely to respond if you dm my discord account than my telegram.)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purpl3r0se&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=purpl3r0se&theme=dark&background=000000)](https://git.io/streak-stats)
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=purpl3r0se)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purpl3r0se&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=purpl3r0se&theme=dark&background=000000)](https://git.io/streak-stats)  
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=purpl3r0se&range=last_year)](https://github.com/anuraghazra/github-readme-stats)  
