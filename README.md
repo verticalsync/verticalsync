@@ -4,7 +4,7 @@
 You can contact me on discord and telegram  
 
 main  
-[![purpl3r0se#1234](https://discord.c99.nl/widget/theme-1/1042314265132019744.png)](https://discord.c99.nl/)  
+[![purpl3r0se#1234](https://discord.c99.nl/widget/theme-1/1054982502067998740.png)](https://discord.c99.nl/)  
 
 Telegram: https://t.me/purpl3r0se (I'm more likely to respond if you dm my discord account than my telegram.)
 
