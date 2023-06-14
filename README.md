@@ -3,7 +3,7 @@
 
 You can contact me on discord and telegram
 
-[![export#1337](https://discord.c99.nl/widget/theme-1/1078778605456330823.png)](https://discord.c99.nl/)
+[![synchronize#001](https://discord.c99.nl/widget/theme-1/1118641123401936937.png)](https://discord.c99.nl/)
 
 Telegram: https://t.me/export9999 (I'm more likely to respond if you dm my discord account than my telegram.)
 
