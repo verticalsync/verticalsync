@@ -1,5 +1,5 @@
-### purpl3r0se
-![Profile views](https://komarev.com/ghpvc/?username=purpl3r0se)
+### sync
+![Profile views](https://komarev.com/ghpvc/?username=verticalsync)
 
 You can contact me on discord and telegram
 
@@ -7,5 +7,5 @@ You can contact me on discord and telegram
 
 Telegram: https://t.me/export9999 (I'm more likely to respond if you dm my discord account than my telegram.)
 
-[![Top Langs](https://vercel-git-main-purpl3r0se.vercel.app/api/top-langs/?username=purpl3r0se&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)  
-[![Github Stats](https://vercel-git-main-purpl3r0se.vercel.app/api?username=purpl3r0se&show_icons=true&theme=transparent&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://vercel-git-main-verticalsync.vercel.app/api/top-langs/?username=verticalsync&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)  
+[![Github Stats](https://vercel-git-main-verticalsync.vercel.app/api?username=verticalsync&show_icons=true&theme=transparent&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
