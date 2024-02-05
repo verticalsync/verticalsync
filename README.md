@@ -3,7 +3,7 @@
 
 You can contact me on discord and telegram
 
-[![synchronize#001](https://discord.c99.nl/widget/theme-1/1181610810548686979.png)](https://discord.c99.nl/)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1181610810548686979)](https://discord.com/users/1181610810548686979)
 
 Telegram: https://t.me/verticalsync (I'm more likely to respond if you dm my discord account than my telegram.)
 
