@@ -1,6 +1,7 @@
 ### sync
 ![Profile views](https://komarev.com/ghpvc/?username=verticalsync)
 
+Hey, I'm nyx, I'm a 15 year old who wants to learn more about programming.  
 You can contact me on discord and telegram
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1181610810548686979)](https://discord.com/users/1181610810548686979)
