@@ -8,7 +8,7 @@
 
   <a href="https://discord.com/users/328165170536775680"> <img align="center" src="https://lanyard.cnrad.dev/api/328165170536775680"/></a>
   
-  <p>Telegram: https://t.me/verticalsync (I'm more likely to respond if you dm my discord account than my telegram.)</p>
+  <p>Telegram: https://t.me/verticalsync</p>
 
 ## Sponsors
 
