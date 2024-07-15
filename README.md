@@ -10,6 +10,14 @@
   
   <p>Telegram: https://t.me/verticalsync (I'm more likely to respond if you dm my discord account than my telegram.)</p>
 
+  ## Sponsors
+
+|                       **Thanks a lot to all my [sponsors](https://github.com/sponsors/verticalsync)! 💛**                        |
+| :---------------------------------------------------------------------------------------------------------------------------------: |
+| [![](https://raw.githubusercontent.com/verticalsync/github-sponsor-graph/main/graph.png)](https://github.com/sponsors/verticalsync) |
+|                _generated using forked [github-sponsor-graph](https://github.com/verticalsync/github-sponsor-graph)_                |
+
+
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=verticalsync&show_icons=true&count_private=true&theme=dracula&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=verticalsync&layout=compact&theme=dracula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=verticalsync&theme=dracula&background=FFFFFF00">
