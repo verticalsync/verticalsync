@@ -6,7 +6,7 @@
   <br>
   <p>You can contact me on discord and telegram</p>
 
-  <a href="https://discord.com/users/328165170536775680"> <img align="center" src="https://lanyard.cnrad.dev/api/328165170536775680"/></a>
+  <a href="https://discord.com/users/1207087393929171095"> <img align="center" src="https://lanyard.cnrad.dev/api/328165170536775680"/></a>
   
   <p>Telegram: https://t.me/verticalsync</p>
 
