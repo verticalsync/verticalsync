@@ -33,7 +33,7 @@
     <img src="https://raw.githubusercontent.com/verticalsync/github-sponsor-graph/main/graph.png" />
   </a>
   <br>
-  <sub>_generated using forked <a href="https://github.com/verticalsync/github-sponsor-graph">github-sponsor-graph</a>_</sub>
+  <sub>generated using forked <a href="https://github.com/verticalsync/github-sponsor-graph">github-sponsor-graph</a></sub>
 </p>
 
 ---
