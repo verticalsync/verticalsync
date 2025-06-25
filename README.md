@@ -42,5 +42,5 @@
 
 <p align="center">
   <img height="180px" src="https://github-readme-stats-git-main-window-syncs-projects.vercel.app/api?username=verticalsync&show_icons=true&count_private=true&theme=dracula&bg_color=00000000" />
-  <img height="180px" src="https://github-readme-stats-git-main-window-syncs-projects.vercel.app/api/top-langs/?username=verticalsync&layout=compact&count_private=true&theme=dracula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI" />
+  <img height="180px" src="https://github-readme-stats-git-main-window-syncs-projects.vercel.app/api/top-langs/?username=verticalsync&layout=compact&count_private=true&theme=dracula&bg_color=00000000&langs_count=25&hide=jupyter%20notebook,tex,css,php" />
 </p>
