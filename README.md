@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Hey, I'm nyx, I'm a 16 year old who wants to learn more about programming.
+  Hey, I'm nyx, I'm a 17 year old who wants to learn more about programming.
   <br>
   You can contact me on Discord and Telegram.
 </p>
