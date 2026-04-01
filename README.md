@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://github.com/sponsors/verticalsync">
-    <img src="https://raw.githubusercontent.com/verticalsync/github-sponsor-graph/main/graph.png" />
+    <img src="https://raw.githubusercontent.com/verticalsync/github-sponsor-graph/refs/heads/main/graph.png" />
   </a>
   <br>
   <sub>generated using forked <a href="https://github.com/verticalsync/github-sponsor-graph">github-sponsor-graph</a></sub>
