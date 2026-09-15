@@ -22,22 +22,6 @@
 
 ---
 
-## <p align="center">Sponsors</p>
-
-<p align="center">
-  <b>Thanks a lot to all my <a href="https://github.com/sponsors/verticalsync">sponsors 💛</a></b>
-</p>
-
-<p align="center">
-  <a href="https://github.com/sponsors/verticalsync">
-    <img src="https://raw.githubusercontent.com/verticalsync/github-sponsor-graph/refs/heads/main/graph.png" />
-  </a>
-  <br>
-  <sub>generated using forked <a href="https://github.com/verticalsync/github-sponsor-graph">github-sponsor-graph</a></sub>
-</p>
-
----
-
 ## <p align="center">Stats</p>
 
 <p align="center">
