@@ -9,6 +9,8 @@
 <p align="center">
   Hey, I'm nyx, I'm a 17 year old who wants to learn more about programming.
   <br>
+  Currently studying @ LVT (Liepaja State Technical school), as a Programmer.
+  <br>
   You can contact me on Discord and Telegram.
 </p>
 
