@@ -15,8 +15,8 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.com/users/1207087393929171095">
-    <img src="https://lanyard.cnrad.dev/api/1207087393929171095" />
+  <a href="https://discord.com/users/1280505961546649633">
+    <img src="https://lanyard.cnrad.dev/api/1280505961546649633" />
   </a>
   <br>
   Telegram: <a href="https://t.me/verticalsync">https://t.me/verticalsync</a>
