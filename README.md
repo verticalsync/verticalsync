@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  Hey, I'm nyx, I'm a 17 year old who wants to learn more about programming.
+  Hey, I'm nyx, I'm 18 years old, and i want to learn more about programming.
   <br>
-  Currently studying @ LVT (Liepaja State Technical school), as a Programmer.
+  I'm currently a second-year programming student at LVT (Liepaja State Technical School).
   <br>
   You can contact me on Discord and Telegram.
 </p>
